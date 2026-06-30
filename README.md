@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 # Installation
 
 First, install the main conda environment (`idpp`). Mamba is preferred, but conda can be used as well (but will be slower).
