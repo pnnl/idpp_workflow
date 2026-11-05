@@ -16,7 +16,7 @@ spektral
 
 # graff-ms
 pandarallel==1.6.4
-torch==1.12.1 #+cu113 
+torch==2.13.0 #+cu113 
 torch_scatter==2.1.2 #+pt112+cu113 #+pt112cu113 --apparently none of these found? # fix this using pip install torch-scatter -f https://data.pyg.org/whl/torch-2.1.0+${CUDA}.html
 pytorch_lightning==1.6.*
 bioservices==1.11.2
